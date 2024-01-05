@@ -1,3 +1,5 @@
+This project has been moved to https://github.com/lkesteloot/trs80
+
 # z80-disasm
 
 This is a Z80 disassembler written in TypeScript.
